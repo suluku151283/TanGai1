@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Tối nay tớ qua đón cậu đi chơi nhaaaaaaaaaaaaa:v Còn chờ gì nữa mà không inbox cho tớ đi nào hehe :))))",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/khoa.phamdang.587/';
+                    window.location = 'facebook.com/akaunto.hung/';
                   }
             })
         }
